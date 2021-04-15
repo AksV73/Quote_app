@@ -1,6 +1,9 @@
 # quote_app
 
-A new Flutter application.
+A Flutter application which uses quote api to provide random quotes on clicking the refresh button.
+API used is http://api.quotable.io/random
+
+
 
 ## Getting Started
 
